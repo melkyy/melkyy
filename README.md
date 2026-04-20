@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Aaron Rodriguez 👋</h1>
   <p align="center">
-    <strong>Software Developer | English Learner | Tech Enthusiast</strong>
+    <strong>Software Developer | Tech Enthusiast</strong>
   </p>
 </div>
 
@@ -10,18 +10,19 @@
 ### 🚀 About Me
 I am a passionate **Software Developer** focused on building scalable applications and collaborating with global teams. Currently, I am expanding my technical toolkit while mastering English to better connect with worldwide communities.
 
-* 🌍  Based in [Your Location]
-* ✉️  Contact me at: **[Your Email]**
-* 🧠  Currently learning: **Advanced Node.js & English Proficiency**
+* 🌍  Based in Sonora, Mexico
+* ✉️  Contact me at: **aaronrodriguezdev@gmail.com**
+* 🧠  Currently learning: **Advanced Java & English Proficiency**
 
 ### 🛠 Tech Stack
 <div align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 <br />
