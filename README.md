@@ -31,10 +31,10 @@ I am a passionate **Software Developer** focused on building scalable applicatio
 ### 📜 Certifications
 <div align="left">
   <a href="https://www.credly.com/badges/9b28949d-0597-46a4-be9d-832d35cc4075/linked_in_profile">
-    <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA Badge" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
   <a href="https://www.credly.com/badges/dee852d9-6f73-4e62-b42c-c29b9160c9a1/linked_in_profile">
-    <img src="https://img.shields.io/badge/AWS_Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Developer Badge" />
+  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
 </div>
 <hr />
