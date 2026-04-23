@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm Aaron Rodriguez 👋</h1>
+  <h1>Hi there, I'm <kbd>Aaron Rodriguez</kbd> 👋</h1>
   <p align="center">
-    <strong>Software Developer | Tech Enthusiast</strong>
+    <code>Software Developer | Tech Enthusiast</code>
   </p>
 </div>
 
