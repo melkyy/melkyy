@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm <kbd>Aaron Rodriguez</kbd> 👋</h1>
+  <h1>Hi there, I'm Aaron Rodriguez 👋</h1>
   <p align="center">
     <code>Software Developer | Tech Enthusiast</code>
   </p>
@@ -8,7 +8,7 @@
 <hr />
 
 ### 🚀 About Me
-I am a passionate **Software Developer** focused on building scalable applications and collaborating with global teams. Currently, I am expanding my technical toolkit while mastering English to better connect with worldwide communities.
+I'm a flexible developer who likes to build solutions to problems, every person can code but knowing how to understand the code is what it makes a great developer
 
 * 🌍  Based in Sonora, Mexico
 * ✉️  Contact me at: **aaronrodriguezdev@gmail.com**
